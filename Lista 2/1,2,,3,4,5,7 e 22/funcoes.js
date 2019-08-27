@@ -106,3 +106,7 @@ function exe7(){
         document.getElementById("saida7").innerHTML= "Não é possivel fazer o reajuste " 
     }
 }
+function exe22(){
+    var idade = Number(document.getElementById("idade").value)
+    var peso = Number(document.getElementById("peso").value)
+}

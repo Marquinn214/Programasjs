@@ -1,0 +1,11 @@
+Git Bash Here
+
+1) git init 1x
+
+2) git status
+
+3) git add .
+
+4) git commit -m "Nome qualquer"
+
+5) git push URL master
